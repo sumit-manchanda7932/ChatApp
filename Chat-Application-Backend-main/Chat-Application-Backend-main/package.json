@@ -1,7 +1,6 @@
 {
   "name": "chat-server",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -29,5 +28,6 @@
     "otp-generator": "^4.0.1",
     "socket.io": "^4.7.2",
     "xss": "^1.0.14"
-  }
+  },
+  "description": ""
 }
